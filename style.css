@@ -38,20 +38,19 @@ li {
 
 .nave {
     text-decoration: none;
-    color: #303030;
-    padding: 12px;
-    border-radius: 19px;
-
+    color: #0D1321;
 }
-
-.nave:hover {
-    color: #FFFFFF;
-    background: linear-gradient(244.06deg, rgba(95, 107, 234, 0.726) 0.9%, #da65dabb 99%);
-    padding: 12px;   
-    transition: all 300ms ease;
-}
-
 
 nav li {
     text-decoration: none;
+}
+/*
+.nave:hover {
+}
+*/
+footer {
+    background-color: #0D1321;
+    color: #FDF4F1;
+    text-align: center;
+    padding: 20px 0;
 }
