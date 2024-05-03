@@ -19,14 +19,11 @@ header {
     height: 10vh;
 }
 
-
-
 li {
     list-style: none;
     display: inline-block;
     font-weight: 500;
-    padding: 12px;
-    
+    padding: 2vh;   
 }
 
 .nave {
@@ -37,10 +34,7 @@ li {
 nav li {
     text-decoration: none;
 }
-/*
-.nave:hover {
-}
-*/
+
 footer {
     background-color: #0D1321;
     color: #FDF4F1;
